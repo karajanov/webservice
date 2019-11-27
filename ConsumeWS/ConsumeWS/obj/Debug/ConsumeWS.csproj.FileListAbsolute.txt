@@ -1,0 +1,6 @@
+C:\Users\Borjan\Desktop\ConsumeWS\ConsumeWS\bin\Debug\ConsumeWS.exe.config
+C:\Users\Borjan\Desktop\ConsumeWS\ConsumeWS\bin\Debug\ConsumeWS.exe
+C:\Users\Borjan\Desktop\ConsumeWS\ConsumeWS\bin\Debug\ConsumeWS.pdb
+C:\Users\Borjan\Desktop\ConsumeWS\ConsumeWS\obj\Debug\ConsumeWS.csprojAssemblyReference.cache
+C:\Users\Borjan\Desktop\ConsumeWS\ConsumeWS\obj\Debug\ConsumeWS.exe
+C:\Users\Borjan\Desktop\ConsumeWS\ConsumeWS\obj\Debug\ConsumeWS.pdb
